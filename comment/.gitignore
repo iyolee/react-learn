@@ -1,0 +1,11 @@
+# FE ignore
+node_modules
+
+# debug ignore
+build/
+npm-debug.log
+
+# IDE ignore
+.vscode
+
+package-lock.json
